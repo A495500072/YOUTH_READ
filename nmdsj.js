@@ -222,7 +222,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://user.gaoqingdianshi.com/api/v3/user/info`,
+       url: `http://user.mydianshijia.com/api/v3/user/info`,
 
         headers: JSON.parse(dsj),
 
@@ -282,7 +282,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://api.gaoqingdianshi.com/api/task/completeWelfareTask?code=new_redpack`,
+       url: `http://api.mydianshijia.com/api/task/completeWelfareTask?code=new_redpack`,
 
         headers: JSON.parse(dsj),
 
@@ -340,7 +340,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://api.gaoqingdianshi.com/api/coin/info`,
+       url: `http://api.mydianshijia.com/api/coin/info`,
 
         headers: JSON.parse(dsj),
 
@@ -412,7 +412,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://api.gaoqingdianshi.com/api/cash/info`,
+       url: `http://api.mydianshijia.com/api/cash/info`,
 
         headers: JSON.parse(dsj),
 
@@ -470,7 +470,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://act.gaoqingdianshi.com/api/v7/sign/signin?accelerate=0&ext=0&ticket=`,
+       url: `http://act.mydianshijia.com/api/v7/sign/signin?accelerate=0&ext=0&ticket=`,
 
         headers: JSON.parse(dsj),
 
@@ -528,7 +528,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://act.gaoqingdianshi.com/api/task/gainRewards?code=${code}`,
+       url: `http://act.mydianshijia.com/api/task/gainRewards?code=${code}`,
 
         headers: JSON.parse(dsj),
 
@@ -586,7 +586,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://act.gaoqingdianshi.com/api/v5/task/complete?code=${code}`,
+       url: `http://act.mydianshijia.com/api/v5/task/complete?code=${code}`,
 
         headers: JSON.parse(dsj),
 
@@ -644,7 +644,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://act.gaoqingdianshi.com/api/v5/task/get`,
+       url: `http://act.mydianshijia.com/api/v5/task/get`,
 
         headers: JSON.parse(dsj),
 
@@ -714,7 +714,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://act.gaoqingdianshi.com/api/v5/task/complete?code=SpWatchVideo&comType=0`,
+       url: `http://act.mydianshijia.com/api/v5/task/complete?code=SpWatchVideo&comType=0`,
 
         headers: JSON.parse(dsj),
 
@@ -772,7 +772,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://api.gaoqingdianshi.com/api/coin/temp/exchange?id=${id}`,
+       url: `http://api.mydianshijia.com/api/coin/temp/exchange?id=${id}`,
 
         headers: JSON.parse(dsj),
 
@@ -830,7 +830,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://act.gaoqingdianshi.com/api/taskext/getWalk?step=20000`,
+       url: `http://act.mydianshijia.com/api/taskext/getWalk?step=20000`,
 
         headers: JSON.parse(dsj),
 
@@ -888,7 +888,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://act.gaoqingdianshi.com/api/taskext/getCoin?code=walk&coin=2000&ext=1`,
+       url: `http://act.mydianshijia.com/api/taskext/getCoin?code=walk&coin=2000&ext=1`,
 
         headers: JSON.parse(dsj),
 
@@ -946,7 +946,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://api.gaoqingdianshi.com/api/v2/taskext/getCarveUp?ext=1`,
+       url: `http://api.mydianshijia.com/api/v2/taskext/getCarveUp?ext=1`,
 
         headers: JSON.parse(dsj),
 
@@ -1004,7 +1004,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://api.gaoqingdianshi.com/api/task/getWelfareTasks`,
+       url: `http://api.mydianshijia.com/api/task/getWelfareTasks`,
 
         headers: JSON.parse(dsj),
 
@@ -1070,7 +1070,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://api.gaoqingdianshi.com/api/task/completeWelfareTask?code=${code}`,
+       url: `http://api.mydianshijia.com/api/task/completeWelfareTask?code=${code}`,
 
         headers: JSON.parse(dsj),
 
@@ -1130,7 +1130,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://api.gaoqingdianshi.com/api/sign/chooseAdditionalReward?rewardId=58`,
+       url: `http://api.mydianshijia.com/api/sign/chooseAdditionalReward?rewardId=58`,
 
         headers: JSON.parse(dsj),
 
@@ -1188,7 +1188,7 @@ async function info(){
 
  let nm = {
 
-       url: `http://act.gaoqingdianshi.com/api/taskext/getSleep?ext=1`,
+       url: `http://act.mydianshijia.com/api/taskext/getSleep?ext=1`,
 
         headers: JSON.parse(dsj),
 
